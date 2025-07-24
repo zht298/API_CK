@@ -29,3 +29,7 @@ www.gov.se#优选
 www.gov.ua#优选
 www.shopify.com#优选
 www.udacity.com#优选
+[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443CMCC-IPV6
+[2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443CMCC-IPV6
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443CMCC-IPV6
