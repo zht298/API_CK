@@ -4,7 +4,6 @@
 104.18.83.233#优选
 104.19.103.54#抓取
 172.64.145.103#优选
-172.64.147.110#优选
 172.64.147.110:443#优选
 172.64.148.140:443#优选
 172.64.151.179:443#优选
@@ -32,6 +31,7 @@ icook.hk#优选
 log.bpminecraft.com#优选
 www.digitalocean.com:443#优选
 www.gov.se#优选
+icook.hk#优选
 www.gov.ua#优选
 www.iakeys.com:443#优选
 www.shopify.com:443#优选
